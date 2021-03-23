@@ -1,8 +1,0 @@
-{
-  "name": "KeyboardControl",
-  "main": "index.js",
-  "_source": "/home/damn/timda-mobile/src/webserver/rvizweb/keyboard/KeyboardControl.js",
-  "_target": "*",
-  "_originalSource": "./keyboard/KeyboardControl.js",
-  "_direct": true
-}
